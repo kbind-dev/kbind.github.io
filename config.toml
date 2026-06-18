@@ -60,7 +60,7 @@ guessSyntax = "true"
 [params]
 copyright = "2021-2026. The kube-bind Authors"
 footer_note = "Kubernetes and the Kubernetes logo are registered trademarks of The Linux Foundation® (TLF)."
-footer_cncf_show = false
+footer_cncf_show = true
 footer_cncf_note = "We are a Cloud Native Computing Foundation sandbox project."
 
 archived_version = false
@@ -142,6 +142,9 @@ url = "https://github.com/kube-bind/kube-bind/blob/main/code-of-conduct.md"
 [[params.links.footer.policies.links]]
 name = "Governance"
 url = "https://github.com/kube-bind/kube-bind/blob/main/GOVERNANCE.md"
+[[params.links.footer.policies.links]]
+name = "Trademark Usage"
+url = "https://www.linuxfoundation.org/trademark-usage/"
 
 # hugo module configuration
 
