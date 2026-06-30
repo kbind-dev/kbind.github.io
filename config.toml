@@ -58,14 +58,14 @@ style = "monokai"
 guessSyntax = "true"
 
 [params]
-copyright = "2021-2026. The kube-bind Authors"
+copyright = "2021-2026. The kbind Authors"
 footer_note = "Kubernetes and the Kubernetes logo are registered trademarks of The Linux Foundation® (TLF)."
 footer_cncf_show = false
 footer_cncf_note = "We are a Cloud Native Computing Foundation sandbox project."
 
 archived_version = false
 url_latest_version = "https://kbind.dev/"
-github_repo = "https://github.com/kube-bind/kbind.github.io"
+github_repo = "https://github.com/kbind-dev/kbind.github.io"
 github_project_repo = "https://github.com/kbind-dev/kbind"
 github_subdir = "docs"
 github_branch= "main"
@@ -81,7 +81,7 @@ prism_syntax_highlighting = false
 [[menu.main]]
 name = "Documentation"
 weight = -1000
-url = "https://kbind.dev/kube-bind/latest"
+url = "https://kbind.dev/kbind/latest"
 [[menu.main]]
 name = "Blog"
 weight = -500
@@ -120,7 +120,7 @@ name = "How to Contribute"
 url = "https://github.com/kbind-dev/kbind/blob/main/CONTRIBUTING.md"
 [[params.links.footer.developer.links]]
 name = "Website Source"
-url = "https://github.com/kube-bind/kbind.github.io"
+url = "https://github.com/kbind-dev/kbind.github.io"
 [[params.links.footer.developer.links]]
 name = "Developer Mailing List"
 url = "https://groups.google.com/g/kube-bind-dev"

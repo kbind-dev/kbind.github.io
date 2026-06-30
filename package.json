@@ -2,11 +2,11 @@
   "comments": {
     "dependencies": {},
     "devDependencies": {
-      "autoprefixer": "kube-bind",
-      "postcss": "kube-bind",
-      "postcss-cli": "kube-bind",
-      "postcss-import": "kube-bind",
-      "tailwindcss": "kube-bind"
+      "autoprefixer": "kbind",
+      "postcss": "kbind",
+      "postcss-cli": "kbind",
+      "postcss-import": "kbind",
+      "tailwindcss": "kbind"
     }
   },
   "dependencies": {},

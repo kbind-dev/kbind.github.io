@@ -1,6 +1,6 @@
 # kbind.dev
 
-This repository contains the [Hugo](https://gohugo.io) files for [kbind.dev](https://kbind.dev), the official website of the kube-bind project.
+This repository contains the [Hugo](https://gohugo.io) files for [kbind.dev](https://kbind.dev), the official website of the kbind project (formerly known as kube-bind).
 
 ## Development
 
