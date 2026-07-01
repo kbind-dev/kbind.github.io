@@ -1,6 +1,6 @@
 hero:
   header: "Provide and Consume Kubernetes-native Services"
-  tagline: "kbind (formerly kube-bind) is an OpenSource project that aims to provide better support for service providers and consumers that reside in distinct Kubernetes clusters."
+  tagline: "kbind (formerly kube-bind) is a CNCF Sandbox project that aims to provide better support for service providers and consumers that reside in distinct Kubernetes clusters."
   buttons:
     get_started: https://docs.kbind.dev/latest/setup/quickstart/
     usage: https://docs.kbind.dev/latest/usage/
