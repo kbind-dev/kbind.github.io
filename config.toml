@@ -59,7 +59,7 @@ guessSyntax = "true"
 
 [params]
 copyright = "2021-2026. The kbind Authors"
-footer_note = "Kubernetes and the Kubernetes logo are registered trademarks of The Linux Foundation® (TLF)."
+footer_note = "Copyright © kbind a Series of LF Projects, LLC. For website terms of use, trademark policy and other project policies please see lfprojects.org/policies/."
 footer_cncf_show = true
 footer_cncf_note = "We are a Cloud Native Computing Foundation sandbox project."
 
